@@ -147,8 +147,8 @@ http://192.168.0.1:8188/udp/239.76.246.160:1234
 http://192.168.0.1:8188/udp/239.76.245.251:1234
 #EXTINF:-1 ,CCTV-12 社会与法
 http://192.168.0.1:8188/udp/239.76.246.162:1234
-#EXTINF:-1 ,CCTV-13 新闻
-http://192.168.0.1:8188/udp/239.76.246.93:1234
+#EXTINF:-1 tvg-name="CCTV13新闻" tvg-id="21" tvg-logo="https://tb.zbds.top/logo/CCTV13.png" group-title="央视频道", CCTV13新闻
+http://pull-hls-f11.douyincdn.com/media/stream-695587197212689068.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776906347&major_anchor_level=common&sign=81655df7686481f4cec91377da5b5b98&t_id=037-20260416090546B656952D837424ED6011-Fd7pkI
 #EXTINF:-1 ,CCTV-14 少儿
 http://192.168.0.1:8188/udp/239.76.246.164:1234
 #EXTINF:-1 ,CCTV-15 音乐
