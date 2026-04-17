@@ -129,7 +129,7 @@ http://192.168.0.1:8188/udp/239.76.252.216:9000
 #EXTINF:-1 tvg-name="CCTV4中文国际" tvg-id="22" tvg-logo="https://tb.zbds.top/logo/CCTV4.png" group-title="央视频道", CCTV4中文国际
 https://v.iill.top/api/CCTV4/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5体育" tvg-id="26" tvg-logo="https://tb.zbds.top/logo/CCTV5.png" group-title="央视频道", CCTV5体育
-http://192.168.0.1:8188/udp/239.76.246.155:1234
+https://v.iill.top/api/CCTV5/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-id="18" tvg-logo="https://tb.zbds.top/logo/CCTV5+.png" group-title="央视频道", CCTV5+体育赛事
 https://v.iill.top/api/CCTV5+/index.m3u8
 #EXTINF:-1 tvg-name="CCTV6电影" tvg-id="16" tvg-logo="https://tb.zbds.top/logo/CCTV6.png" group-title="央视频道", CCTV6电影
