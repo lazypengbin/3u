@@ -130,9 +130,7 @@ https://v.iill.top/api/CCTV4/index.m3u8
 #EXTINF:-1 ,CCTV-5 体育
 http://192.168.0.1:8188/udp/239.76.246.155:1234
 #EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-id="18" tvg-logo="https://tb.zbds.top/logo/CCTV5+.png" group-title="央视频道", CCTV5+体育赛事
-http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/1200/01.m3u8?msisdn=4f89b0f1d885527a227fd4a636419cfe&mdspid=&spid=699004&netType=4&sid=5500516288&pid=2028597139&timestamp=20260417064016&Channel_ID=0116_2600031500-99000-200300140100004&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=39.173.178.202&SecurityKey=20260417064016&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=ZQ-A1-9.3.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=689c4064f91aebeec4e0456a1fb9217e&sv=10004&ct=android&playUrlSsn=4f89b0f1d885527a227fd4a636419cfe1776379211332&prlId=4f89b0f1d885527a227fd4a636419cfe1776379211340&jid=4f89b0f1d885527a227fd4a636419cfe1776379210955V&is_advertise=0&sjid=subsession_1776379214963&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=37e2ccacd6384a24bf354fb3cfa333e4
-#EXTINF:-1 ,IPTV5+
-http://192.168.0.1:8188/udp/239.76.252.222:9000
+https://v.iill.top/api/CCTV5+/index.m3u8
 #EXTINF:-1 ,CCTV-6 电影
 http://192.168.0.1:8188/udp/239.76.246.156:1234
 #EXTINF:-1 ,CCTV-7 国防军事
