@@ -13,8 +13,8 @@ http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlk
 http://192.168.0.1:8188/udp/239.76.245.117:1234
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-id="" tvg-logo="https://tb.zbds.top/logo/湖南卫视.png" group-title="湖南频道", 湖南娱乐
 http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZyYXV0aF9lbmFibGU9b2ZmJmNkbmV4X2lkPXFxX3Bob25lX2xpdmUmY2hzPSZkZWY9MSZzPTdmYzIzOTlhNDQ1MTE4ZGRkMjY1M2JjYWFkZjg5MDExJnVpZD0mdXVpZD0wYjE2MDgzYzVmM2U4YjRjNTdlOTczMjFhNGExOGYxNy02YTBlMjYzNyZ2PTImYXM9MCZlcz0xNzc2NDQxNjUw/HNYLMPP360.m3u8
-#EXTINF:-1 ,湖南电影
-http://192.168.0.1:8188/udp/239.76.245.119:1234
+#EXTINF:-1 tvg-name="湖南电影" tvg-id="" tvg-logo="https://tb.zbds.top/logo/湖南卫视.png" group-title="湖南频道", 湖南电影
+http://222.240.220.198:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南爱晚
 http://192.168.0.1:8188/udp/239.76.246.109:1234
 #EXTINF:-1 ,湖南电视剧
