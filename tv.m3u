@@ -117,16 +117,16 @@ http://192.168.0.1:8188/udp/239.76.253.52:9000
 https://v.iill.top/api/CCTV1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1综合" tvg-id="25" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="央视频道", CCTV1综合
 http://play.kankanlive.com/live/1698234869325962.m3u8
-#EXTINF:-1 ,CCTV-2 财经
-http://192.168.0.1:8188/udp/239.76.246.152:1234
-#EXTINF:-1 ,CCTV-3 综艺
-http://192.168.0.1:8188/udp/239.76.246.153:1234
+#EXTINF:-1 tvg-name="CCTV2财经" tvg-id="17" tvg-logo="https://tb.zbds.top/logo/CCTV2.png" group-title="央视频道", CCTV2财经
+https://v.iill.top/api/CCTV2/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-id="15" tvg-logo="https://tb.zbds.top/logo/CCTV3.png" group-title="央视频道", CCTV3 综艺
+https://v.iill.top/api/CCTV3/index.m3u8
 #EXTINF:-1 ,IPTV3+
 http://192.168.0.1:8188/udp/239.76.252.205:9000
 #EXTINF:-1 ,IPTV足球
 http://192.168.0.1:8188/udp/239.76.252.216:9000
-#EXTINF:-1 ,CCTV-4 中文国际
-http://192.168.0.1:8188/udp/239.76.245.195:1234
+#EXTINF:-1 tvg-name="CCTV4中文国际" tvg-id="22" tvg-logo="https://tb.zbds.top/logo/CCTV4.png" group-title="央视频道", CCTV4中文国际
+https://v.iill.top/api/CCTV4/index.m3u8
 #EXTINF:-1 ,CCTV-5 体育
 http://192.168.0.1:8188/udp/239.76.246.155:1234
 #EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-id="18" tvg-logo="https://tb.zbds.top/logo/CCTV5+.png" group-title="央视频道", CCTV5+体育赛事
